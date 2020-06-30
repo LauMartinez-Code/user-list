@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(49, 50, 51);
+}
+
+h2 {
+  font-family: Lato;
+  text-align: center;
+}
+
+.container {
+  width: 400px;
+  background-color: white;
+  border: 2px solid blue;
+  margin: 40px auto;
+  padding: 16px;
+}

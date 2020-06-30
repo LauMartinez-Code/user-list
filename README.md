@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About the App
+This SPA application made in React.js shows a list of users, which are obtained from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/). You can also see the information of each user by clicking on their name. Use the library "react-router-dom" to render the different routes of the site.
+
+# To run this app:
+## Download npm dependencies
+At the project root folder run
+```bash
+npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
